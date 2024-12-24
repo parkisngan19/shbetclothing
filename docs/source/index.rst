@@ -1,22 +1,18 @@
-Welcome to Lumache's documentation!
+SHBET - Nền tảng cá cược trực tuyến hàng đầu Châu Á
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`SHBET <https://shbet.clothing/>`_ là một nền tảng chơi game trực tuyến hàng đầu tại khu vực Châu Á - Thái Bình Dương, chính thức ra mắt vào năm 2021. Với giấy phép hoạt động từ Costa Rica và Philippines, SHBET cung cấp các dịch vụ chơi game đa dạng như Casino trực tuyến, Nổ hũ - Slot Game 3D, thể thao, và bắn cá đổi thưởng. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+SHBET nổi bật với các đối tác chiến lược uy tín như Villarreal CF và đại sứ thương hiệu Andrés Iniesta, giúp nâng cao uy tín và trải nghiệm người chơi. SHBET cam kết bảo mật cao, giao dịch nhanh chóng, và các chương trình khuyến mãi hấp dẫn, đồng thời được bảo vệ pháp lý và đảm bảo môi trường chơi game đổi thưởng công bằng. SHBET đang phát triển mạnh mẽ với mục tiêu trở thành một trong những nền tảng giải trí trực tuyến hàng đầu.
 
-.. note::
+Thông tin liên hệ: 
 
-   This project is under active development.
+Địa chỉ: 398 Đ. Lũy Bán Bích, Hoà Thanh, Tân Phú, Hồ Chí Minh, Việt Nam. 
 
-Contents
---------
+Phone: 0385724305. 
 
-.. toctree::
+Email: info@shbet.clothing. 
 
-   usage
-   api
+Website: https://shbet.clothing/ 
+
+#shbet #trangchushbet #dangkyshbet #dangnhapshbet #linkshbet
